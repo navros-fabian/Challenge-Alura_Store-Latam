@@ -10,6 +10,8 @@ Analizar el desempeño de las cuatro tiendas de Alura Store Latam y recomendar a
 
 ## 3. Resultados
 
+![Ingresos por Tienda](images/grafico_barras.jpeg)
+
 ### Ingresos Totales
 | Tienda | Ingresos |
 |--------|-----------|
@@ -19,6 +21,8 @@ Analizar el desempeño de las cuatro tiendas de Alura Store Latam y recomendar a
 | **Tienda 4** | **1,038,375,700** |
 
 ➡️ **La Tienda 4 presenta el menor ingreso total.**
+
+![Valoración Promedio](images/grafico_puntos.jpeg)
 
 ### Valoración Promedio
 - Tienda 1: 3.98  
@@ -32,4 +36,8 @@ Analizar el desempeño de las cuatro tiendas de Alura Store Latam y recomendar a
 - Tienda 3: 24,805  
 - Tienda 4: 23,459  
 
+### Categorias con mayor ventas
+
+
+![Costo de Envío](images/grafico_pastel.jpeg)
 
